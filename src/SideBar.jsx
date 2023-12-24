@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import classNames from "classnames";
 import profile from "../src/assets/customer2.svg";
 import about from "../src/assets/about.svg";
-import skills from "../src/assets/Skills.svg";
+import skills from "../src/assets/skills.svg";
 import qualifications from "../src/assets/qualifications.svg";
 import contacts from "../src/assets/contacts.svg";
 import projects from "../src/assets/react.svg";
